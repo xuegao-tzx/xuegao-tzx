@@ -22,6 +22,6 @@ Languages and Tools:
 
 
 
-- 🔭 I’m currently studying on NUC College
+- 🔭 I’m currently studying on NUC college
 - 🌱 I’m currently learning Software Engineering
 - 📫 How to reach me: [![Mail Badge](https://img.shields.io/badge/-xcl@xuegao--tzx.top-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:2013040111@st.nuc.edu.cn)](mailto:xcl@xuegao-tzx.top) 
