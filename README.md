@@ -29,3 +29,16 @@ Languages and Tools:
 - 🔭 I’m currently studying on NUC college
 - 🌱 I’m currently learning Software Engineering
 - 📫 How to reach me: [![Mail Badge](https://img.shields.io/badge/-xcl@xuegao--tzx.top-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:2013040111@st.nuc.edu.cn)](mailto:xcl@xuegao-tzx.top) 
+
+
+- **My Gitee Code warehouse:[https://gitee.com/xuegao-tzx](https://gitee.com/xuegao-tzx)**
+- **我的Gitee仓库：[https://gitee.com/xuegao-tzx](https://gitee.com/xuegao-tzx)**
+
+- **My Github Code warehouse:[https://github.com/xuegao-tzx](https://github.com/xuegao-tzx)**
+- **我的Github仓库：[https://github.com/xuegao-tzx](https://github.com/xuegao-tzx)**
+
+- **My Gitlab Code warehouse:[https://gitlab.xuegao-tzx.top/xuegao-tzx](https://gitlab.xuegao-tzx.top/xuegao-tzx)**
+- **我的Gitlab仓库：[https://gitlab.xuegao-tzx.top/xuegao-tzx](https://gitlab.xuegao-tzx.top/xuegao-tzx)**
+
+- **My Maven Center warehouse:[https://repo1.maven.org/maven2/top/xuegao-tzx/](https://repo1.maven.org/maven2/top/xuegao-tzx/)**
+- **我的Maven中心仓库：[https://repo1.maven.org/maven2/top/xuegao-tzx/](https://repo1.maven.org/maven2/top/xuegao-tzx/)**
