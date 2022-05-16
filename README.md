@@ -11,7 +11,7 @@
 <a href="https://gitee.com/xuegao-tzx">
   <img align="center" alt="Top Langs" src="https://github-readme-streak-stats.herokuapp.com?user=xuegao-tzx&date_format=%5BY.%5Dn.j" />
 </a><br>
-<a href="https://gitee.com/xuegao-tzx">
+<a href="https://repo1.maven.org/maven2/top/xuegao-tzx/">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuegao-tzx&layout=compact" />
 </a><br>
 
