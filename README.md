@@ -11,6 +11,9 @@
 <a href="https://gitee.com/xuegao-tzx">
   <img align="center" alt="Top Langs" src="https://github-readme-streak-stats.herokuapp.com?user=xuegao-tzx&date_format=%5BY.%5Dn.j" />
 </a><br>
+<a href="https://gitlab.xuegao-tzx.top/xuegao-tzx">
+  <img align="center" alt="Top Langs" src="https://github-readme-streak-stats.herokuapp.com?user=xuegao-tzx&date_format=%5BY.%5Dn.j" />
+</a><br>
 <a href="https://repo1.maven.org/maven2/top/xuegao-tzx/">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuegao-tzx&layout=compact" />
 </a><br>
@@ -19,7 +22,11 @@
 Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Ts"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Js"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C"></code>
 
 
