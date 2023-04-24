@@ -1,7 +1,8 @@
 ## Hey 👋, This is TxueZgaoX
 
-[![Mail Badge](https://img.shields.io/badge/-xcl@xuegao--tzx.top-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:2013040111@st.nuc.edu.cn)](mailto:xcl@xuegao-tzx.top) 
-[![Github Badge](https://img.shields.io/badge/-xuegao--tzx-grey?style=flat&logo=github&logoColor=white&link=mailto:2013040111@st.nuc.edu.cn)](https://www.github.com/xuegao-tzx/)
+[![Github Badge](https://img.shields.io/badge/-xuegao--tzx-grey?style=flat&logo=github&logoColor=white&link=mailto:xcl@xuegao-tzx.top)](https://www.github.com/xuegao-tzx/)
+[![Mail Badge](https://img.shields.io/badge/-xcl@xuegao--tzx.top-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:xcl@xuegao-tzx.top)](mailto:xcl@xuegao-tzx.top) 
+[![wakatime](https://wakatime.com/badge/user/24814b6b-61d4-400a-a02a-d354953f1dc8.svg)](https://wakatime.com/@24814b6b-61d4-400a-a02a-d354953f1dc8)
 
 ## Some of my Github Stats
 
@@ -26,9 +27,18 @@ Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C"></code>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@24814b6b-61d4-400a-a02a-d354953f1dc8/65cc4225-286b-414a-b69d-5555e3742d88.png" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@24814b6b-61d4-400a-a02a-d354953f1dc8/cdf0e402-7225-4524-9fa4-ad8b1b599e6e.png" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@24814b6b-61d4-400a-a02a-d354953f1dc8/cf96c53a-920a-4ab3-9f5b-853a71b3b718.png" /></a>
+
+Code Time:
+
+<a href="https://wakatime.com/@tzx_xcl"><img src="https://wakatime.com/share/@24814b6b-61d4-400a-a02a-d354953f1dc8/65cc4225-286b-414a-b69d-5555e3742d88.png" /></a>
+
+Code Languages:
+
+<a href="https://wakatime.com/@tzx_xcl"><img src="https://wakatime.com/share/@24814b6b-61d4-400a-a02a-d354953f1dc8/cdf0e402-7225-4524-9fa4-ad8b1b599e6e.png" /></a>
+
+Code Tools:
+
+<a href="https://wakatime.com/@tzx_xcl"><img src="https://wakatime.com/share/@24814b6b-61d4-400a-a02a-d354953f1dc8/cf96c53a-920a-4ab3-9f5b-853a71b3b718.png" /></a>
 
 - 🔭 I’m currently studying on NUC college
 - 🌱 I’m currently learning Software Engineering
