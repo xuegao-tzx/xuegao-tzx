@@ -26,9 +26,9 @@ Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C"></code>
 
-
-
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@24814b6b-61d4-400a-a02a-d354953f1dc8/65cc4225-286b-414a-b69d-5555e3742d88.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@24814b6b-61d4-400a-a02a-d354953f1dc8/cdf0e402-7225-4524-9fa4-ad8b1b599e6e.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@24814b6b-61d4-400a-a02a-d354953f1dc8/cf96c53a-920a-4ab3-9f5b-853a71b3b718.png" /></a>
 
 - 🔭 I’m currently studying on NUC college
 - 🌱 I’m currently learning Software Engineering
