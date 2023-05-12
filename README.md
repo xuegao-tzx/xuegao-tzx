@@ -1,4 +1,4 @@
-## Hey 👋, This is TxueZgaoX
+## Hey 👋, This is TZX(小草林)
 
 [![Github Badge](https://img.shields.io/badge/-xuegao--tzx-grey?style=flat&logo=github&logoColor=white&link=mailto:xcl@xuegao-tzx.top)](https://www.github.com/xuegao-tzx/)
 [![Mail Badge](https://img.shields.io/badge/-xcl@xuegao--tzx.top-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:xcl@xuegao-tzx.top)](mailto:xcl@xuegao-tzx.top) 
@@ -21,10 +21,12 @@ Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue3"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Ts"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Js"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C"></code>
 
 
@@ -40,7 +42,7 @@ Code Tools:
 
 <a href="https://wakatime.com/@tzx_xcl"><img src="https://wakatime.com/share/@24814b6b-61d4-400a-a02a-d354953f1dc8/cf96c53a-920a-4ab3-9f5b-853a71b3b718.png" /></a>
 
-- 🔭 I’m currently studying on NUC college
+- ~~🔭 I’m currently studying on NUC college~~
 - 🌱 I’m currently learning Software Engineering
 - 📫 How to reach me: [![Mail Badge](https://img.shields.io/badge/-xcl@xuegao--tzx.top-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:2013040111@st.nuc.edu.cn)](mailto:xcl@xuegao-tzx.top) 
 
