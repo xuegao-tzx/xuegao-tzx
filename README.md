@@ -53,8 +53,8 @@ Code Tools:
 - **My Github Code warehouse:[https://github.com/xuegao-tzx](https://github.com/xuegao-tzx)**
 - **我的Github仓库：[https://github.com/xuegao-tzx](https://github.com/xuegao-tzx)**
 
-- **My Gitlab Code warehouse:[https://gitlab.xuegao-tzx.top/xuegao-tzx](https://gitlab.xuegao-tzx.top/xuegao-tzx)**
-- **我的Gitlab仓库：[https://gitlab.xuegao-tzx.top/xuegao-tzx](https://gitlab.xuegao-tzx.top/xuegao-tzx)**
+- **My Gitlab Code warehouse:[https://git.xcl.ink/xuegao-tzx](https://git.xcl.ink/xuegao-tzx)**
+- **我的Gitlab仓库：[https://git.xcl.ink/xuegao-tzx](https://git.xcl.ink/xuegao-tzx)**
 
 - **My Maven Center warehouse:[https://repo1.maven.org/maven2/top/xuegao-tzx/](https://repo1.maven.org/maven2/top/xuegao-tzx/)**
 - **我的Maven中心仓库：[https://repo1.maven.org/maven2/top/xuegao-tzx/](https://repo1.maven.org/maven2/top/xuegao-tzx/)**
