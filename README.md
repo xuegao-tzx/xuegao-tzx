@@ -1,4 +1,4 @@
-## Hey 👋, This is TZX(小草林)
+## Hey 👋, This is Small Grass Forest(小草林)
 
 [![Github Badge](https://img.shields.io/badge/-xuegao--tzx-grey?style=flat&logo=github&logoColor=white&link=mailto:zixuanxcl@gmail.com)](https://www.github.com/xuegao-tzx/)
 [![Mail Badge](https://img.shields.io/badge/-zixuanxcl@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zixuanxcl@gmail.com)](mailto:zixuanxcl@gmail.com) 
